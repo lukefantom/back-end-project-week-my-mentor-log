@@ -3,7 +3,7 @@
 
 School of Code Week 8 - 1 Week Group Project
 
-Front End Repo: https://github.com/lukefantom/mentorlog-frontend
+[Front-end Repo](https://github.com/lukefantom/mentorlog-frontend)
 
 Personal development application, built during a 1-week project in a team of 4 where users are able to keep track of mentor meetings using a custom-built notes application. 
 
